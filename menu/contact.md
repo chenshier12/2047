@@ -1,6 +1,12 @@
 ---
 layout: page
-title: Contact
+title: Contacto
 ---
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+如果你想要联系我。
+
+你可以去马德里仓库区问一下，那个卖蛋挞和芋圆的阿東，他们肯定会告诉你。
+
+祝你好心情！
+
+¡un saludo!

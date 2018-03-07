@@ -15,7 +15,6 @@ social:
 - {icon: 'github', link: 'https://www.github.com/chenshier'}
 - {icon: 'twitter', link: 'https://twitter.com/josejavierchen'}
 - {icon: 'envelope', link: 'mailto:chenzhan91@gmail.com'}
-- {icon: 'rss-square', link: '/feed.xml'}
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
 
 # Customize site text
@@ -23,7 +22,7 @@ pagination:
   next_page: '今生'
   previous_page: '前世'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: '谢谢你来看我!'
 
 related_posts: 'You may also enjoy:'
 
