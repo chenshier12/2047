@@ -9,7 +9,7 @@ image: somia.png
 
 那一年，我们还一起去了电影其中一个拍摄地：Calobra
 
- ![Calobra](https://github.com/chenshier12/2046/blob/master/assets/img/calobra.jpg?raw=true)
+ ![Calobra](https://github.com/chenshier12/2047/blob/master/assets/img/calobra.jpg?raw=true)
 
 我还爬上那边的悬崖。纵身跃入海里的那一刹那，脑子里浮现出，我不想死。
 然后就《云图》里的那些关键词出现，生命，死亡，诞生！
