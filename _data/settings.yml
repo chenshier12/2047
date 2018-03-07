@@ -23,7 +23,3 @@ pagination:
   previous_page: '前世'
 
 sharing_button_prompt: '谢谢你来看我!'
-
-related_posts: 'You may also enjoy:'
-
-post_date_prefix: 'Written on'
