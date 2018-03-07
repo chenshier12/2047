@@ -1,10 +1,56 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "阿東你为什么来西班牙啊"
+author: "阿東"
 categories: journal
-tags: [documentation,sample]
+tags: [自言自语]
 image: cutting.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Below is a compilation of some of my favourite things that I have built over the years. You may find everything else on my <a href="http://github.com/lenpaul" target="_blank">Github</a> and <a href="https://codepen.io/lenpaul" target="_blank">Code Pen</a> profiles.
+自小，7岁开始寄养在外公家，外公外婆经营一家早餐店，我从7岁直到14岁为止每天早上4点半，帮忙至6点半左右，然后去学校。
+
+暑假里，则是帮到10点钟早市结束。下午2点左右会炸臭豆腐至下午4点。
+
+豆浆，油条，馄炖，臭豆腐，包子，馒头，生煎包，这些都是在那个时候学起来的。
+
+技不压身，但凡技术类的东西都比较喜欢，对高级技工人员历来都十分崇敬。
+
+青少年时期的叛逆，整个高中就在高三后半学期，突然魂灵开窍般读起了书。
+
+十分努力，早上5点不到就从寝室摸黑起床去教室。高一高二的书都拿来翻了好几遍。晚自习也是十分认真。
+
+最后的月考，居然考出好成绩，第一次高考摸底考排名年级段倒数10名人，
+
+最后一次排到了前100名。班级19名。
+
+我这些都记得，是因为这是属于我的骄傲。
+
+事实上，人生并非是戏剧，若用三个月的时间能得到三年的积累知识，那公平何在？
+
+最后的高考分数下来，没太多的意外，本来目标是考个第三批本科，但还是只有大专院校可以选择报考。
+
+这个事情，有过很深的悔意，悔不当初的情绪和遗憾伴随了自身好些年。
+
+最后学了三年的服装设计。实习的公司印象深刻，是女装ONLY的代理商。
+
+面试也是很神奇的，我只拿了一页纸的简历，招聘我的主管小姐姐居然给我机会，让我通过了。
+
+虽没有真正做裁缝，但家里的裤脚都是我修改的。十几年过去了技术是不会忘记的。
+
+我最喜欢立体裁剪，因为老师给我评价最高，说我有设计天赋，给我的成绩是95分。这些也不会忘。
+
+后来为去西班牙留学做准备去读西语。2006年的2月份，我在网上找的是南开大学的西语培训。
+
+最后做决定的那一刻，脑子一抽联系了上海的出国中介。就有了上海外国语大学的读书经历。
+
+那时候，静安寺的windows酒吧是常客，找几个小伙伴，能玩通宵。
+
+记忆特别深刻的一次，出租车都停校门口了，还不愿意回公寓楼，非要再穿过鲁迅公园，去那边有个早餐摊里，喝一碗豆浆，吃两根油条。
+
+再回到公寓楼昏睡。
+
+就这样
+
+500个课时学了第一册的西语。就申请去西班牙读书了。
+
+那一年，2006年。
