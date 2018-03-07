@@ -4,7 +4,7 @@ title: "阿東你为什么来西班牙啊"
 author: "阿東"
 categories: journal
 tags: [自言自语]
-image: cutting.jpg
+image: yo.jpeg
 ---
 
 自小，7岁开始寄养在外公家，外公外婆经营一家早餐店，我从7岁直到14岁为止每天早上4点半，帮忙至6点半左右，然后去学校。
